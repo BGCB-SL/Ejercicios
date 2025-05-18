@@ -16,6 +16,8 @@ El codigo fue hecho con el ID netbeans
 
 -- 6. Sistema de Gestión                => SistemaGestion2             --
 
+-- Diagramas de Memoria                 => IMG                         --
+
 -------------------------------------------------------------------------
 
 
